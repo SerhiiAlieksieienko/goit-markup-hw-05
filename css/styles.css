@@ -1049,7 +1049,9 @@ border: 1px solid #4d5ae5;
 .form-wrapper-cont{
     margin-bottom: 8px;
 }
-
+.form-wrapper-cont.textarea-cont{
+    margin-bottom: 16px;
+}
 .form-wrapper-checkbox {
     margin-bottom: 24px;
 }
